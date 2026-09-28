@@ -1,0 +1,32 @@
+[
+  {
+    "id": "refunds",
+    "title": "Refund timeline",
+    "text": "Approved refunds are usually returned to the original payment method within 5-7 business days. Bank processing can occasionally take longer.",
+    "category": "billing"
+  },
+  {
+    "id": "password",
+    "title": "Password reset",
+    "text": "Customers can reset their password from Settings > Security > Reset password. A reset email expires after 30 minutes.",
+    "category": "account"
+  },
+  {
+    "id": "shipping",
+    "title": "Shipping estimate",
+    "text": "Standard shipping normally takes 3-5 business days after an order is dispatched.",
+    "category": "orders"
+  },
+  {
+    "id": "cancel",
+    "title": "Order cancellation",
+    "text": "An order can be cancelled before it enters shipment processing. Once dispatched, the customer should request a return instead.",
+    "category": "orders"
+  },
+  {
+    "id": "human-review",
+    "title": "Human review policy",
+    "text": "Escalate requests involving payment disputes, account security incidents, or uncertain answers that cannot be supported by the knowledge base.",
+    "category": "support"
+  }
+]
